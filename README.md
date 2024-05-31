@@ -1,6 +1,5 @@
 ## ChessBot: An Intelligent Chess Engine and GUI
 
-![ChessBot]
 ChessBot is a sophisticated Python-based chess engine accompanied by a sleek graphical interface that allows users to play chess against the computer with ease.
 
 ## Features
